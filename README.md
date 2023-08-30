@@ -1,2 +1,2 @@
-# aula04_MOB
+# ionic_exercicio_aula04_MOB
 aulas, lições e atividades
